@@ -111,14 +111,10 @@ BINANCE_NAME = os.getenv("BINANCE_NAME", "ʟᴇɢᴇɴᴅ ʙᴀʜɪʀᴀᴠᴀ")
 # Telegram usernames are used for membership checks, so no numeric chat IDs
 # need to be hard-coded for these public chats.
 REQUIRED_CHATS = [
-    ("ᴊᴏɪɴ ʙᴀʜɪʀᴀᴠᴀ ʙᴏᴛ", "https://t.me/Bahirava_Bot_Inc_Official", "@Bahirava_Bot_Inc_Official"),
-    ("ᴊᴏɪɴ ʙᴀʜɪʀᴀᴠᴀ ᴍᴅ ʙᴏᴛ", "https://t.me/Bahirava_Md_Bot_Inc_Official", "@Bahirava_Md_Bot_Inc_Official"),
-    ("ᴊᴏɪɴ ʜᴏsᴛɪɴɢ ᴄʜᴀɴɴᴇʟ", "https://t.me/Hosting_Channel", "@Hosting_Channel"),
-    ("ᴊᴏɪɴ ʙᴏᴛ ᴄᴏᴅᴇs", "https://t.me/Bot_Codes_gc", "@Bot_Codes_gc"),
-    ("ᴊᴏɪɴ ʙᴀʜɪʀᴀᴠᴀ", "https://t.me/bahirava13", "@bahirava13"),
-    ("ᴊᴏɪɴ ʙᴀʜɪʀᴀᴠᴀ xᴍᴅ ɢᴄ", "https://t.me/Bahiravaxmdgc", "@Bahiravaxmdgc"),
-    ("ᴊᴏɪɴ ʙᴀʜɪʀᴀᴠᴀ ʙᴏᴛ ɪɴᴄ ɢᴄ", "https://t.me/Bahirava_Bot_Inc_Gc", "@Bahirava_Bot_Inc_Gc"),
-    ("ᴊᴏɪɴ ʙᴀʜɪʀᴀᴠᴀ ᴠɪᴘ ɢʀᴏᴜᴘ", "https://t.me/Bahirava_Vip_Bot_Inc_Group", "@Bahirava_Vip_Bot_Inc_Group"),
+    ("ᴍᴇʟɪᴏᴅᴀs 1", "https://t.me/meliodastech", "@meliodastech"),
+    ("ᴍᴇʟɪᴏᴅᴀs 2", "https://t.me/actusanime", "@actusanime"),
+    ("ᴍᴇʟɪᴏᴅᴀs 3", "https://t.me/meliodastechdev", "@meliodastechdev"),
+    ("ᴍᴇʟɪᴏᴅᴀs 4", "https://t.me/meliodas_243", "@meliodas_243"),
 ]
 
 PENDING_PAYMENTS = {}
