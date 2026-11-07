@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+venv/
+.venv/
+accounts.json
+user.json
+database.json
+smtp.json
+proxies.txt
+emails.txt
+session/
+auth_info/
