@@ -115,6 +115,10 @@ REQUIRED_CHATS = [
     ("ᴍᴇʟɪᴏᴅᴀs 2", "https://t.me/actusanime", "@actusanime"),
     ("ᴍᴇʟɪᴏᴅᴀs 3", "https://t.me/meliodastechdev", "@meliodastechdev"),
     ("ᴍᴇʟɪᴏᴅᴀs 4", "https://t.me/meliodas_243", "@meliodas_243"),
+    ("ᴍᴇʟɪᴏᴅᴀs 1", "https://t.me/meliodastech", "@meliodastech"),
+    ("ᴍᴇʟɪᴏᴅᴀs 2", "https://t.me/actusanime", "@actusanime"),
+    ("ᴍᴇʟɪᴏᴅᴀs 3", "https://t.me/meliodastechdev", "@meliodastechdev"),
+    ("ᴍᴇʟɪᴏᴅᴀs 4", "https://t.me/meliodas_243", "@meliodas_243"),
 ]
 
 PENDING_PAYMENTS = {}
