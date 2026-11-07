@@ -1,0 +1,122 @@
+[
+  {
+    "api_id": 12345,
+    "api_hash": "0123456789abcdef0123456789abcdef",
+    "phone": "+12345678901",
+    "username": "account1",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+        "user": "cryptolord25ss@gmail.com",
+        "pass": "lczszqjxovvbuxco"
+    }
+  },
+  {
+    "api_id": 12346,
+    "api_hash": "1123456789abcdef0123456789abcdef",
+    "phone": "+12345678902",
+    "username": "account2",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+        "user": "himselfdev759@gmail.com",
+        "pass": "fpwncioanqohseix"
+    }
+  },
+  {
+    "api_id": 12347,
+    "api_hash": "2123456789abcdef0123456789abcdef",
+    "phone": "+12345678903",
+    "username": "account3",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+        "user": "unknownhimself6@gmail.com",
+        "pass": "uupfjdufriwrdgop"
+    }
+  },
+  {
+    "api_id": 12348,
+    "api_hash": "3123456789abcdef0123456789abcdef",
+    "phone": "+12345678904",
+    "username": "account4",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+        "user": "arsheeqarsheeqq@gmail.com",
+        "pass": "pkkqfactxwkpvzgc"
+    }
+  },
+  {
+    "api_id": 12349,
+    "api_hash": "4123456789abcdef0123456789abcdef",
+    "phone": "+12345678905",
+    "username": "account5",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+        "user": "managerhimself032@gmail.com",
+        "pass": "inagtgypnpyweleu"
+    }
+  },
+  {
+    "api_id": 12350,
+    "api_hash": "5123456789abcdef0123456789abcdef",
+    "phone": "+12345678906",
+    "username": "account6",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+        "user": "happyvlogs456@gmail.com",
+        "pass": "hkamlazgurxbciux"
+    }
+  },
+  {
+    "api_id": 12351,
+    "api_hash": "6123456789abcdef0123456789abcdef",
+    "phone": "+12345678907",
+    "username": "account7",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+        "user": "chilemmy44@gmail.com",
+        "pass": "dzrackyzqlsplusc0"
+    }
+  },
+  {
+    "api_id": 12352,
+    "api_hash": "7123456789abcdef0123456789abcdef",
+    "phone": "+12345678908",
+    "username": "account8",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+        "user": "dominicjeremiah989@gmail.com",
+        "pass": "zcsspqzlswydbkgt1"
+    }
+  },
+  {
+    "api_id": 12353,
+    "api_hash": "8123456789abcdef0123456789abcdef",
+    "phone": "+12345678909",
+    "username": "account9",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+        "user": "hereasad2@gmail.com",
+        "pass": "pazabcukrbxanjmn"
+    }
+  },
+  {
+    "api_id": 12354,
+    "api_hash": "9123456789abcdef0123456789abcdef",
+    "phone": "+12345678910",
+    "username": "account10",
+    "smtp": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+        "user": "whats906app@gmail.com",
+        "pass": "dhpdggpxmzzfnwcc"
+    }
+  }
+]

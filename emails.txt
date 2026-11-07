@@ -1,0 +1,8 @@
+abuse@telegram.org
+dmca@telegram.org
+support@telegram.org
+security@telegram.org
+stopCA@telegram.org
+recover@telegram.org
+sms@telegram.org
+sticker@telegram.org

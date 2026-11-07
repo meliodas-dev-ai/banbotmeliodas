@@ -1,0 +1,9 @@
+{
+    "owner_id": 8954223707,
+    "ban_gpt_enabled": false,
+    "hf_api_key": "",
+    "hf_model": "meta-llama/Meta-Llama-3-8B-Instruct",
+    "telegram_api_id": "39711789",
+    "telegram_api_hash": "",
+    "telegram_token": ""
+}
