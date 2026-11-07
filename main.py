@@ -1,3 +1,4 @@
+import keep_alive
 # ʙᴀʜɪʀᴀᴠᴀ 🌹 ᴄᴏᴅᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ
 import sys
 import traceback
